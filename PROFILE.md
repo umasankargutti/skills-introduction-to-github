@@ -1,2 +1,6 @@
-***Welcome to my GitHub profile!***
-THis is a test pull request
+
+# Project Title
+
+<!-- Remember to update this section before release -->
+
+Welcome to the project! Please follow the instructions below.
